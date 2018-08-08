@@ -16,7 +16,7 @@
      limitations under the License.                                                  
 
 -->
-# Cloud Streams
+# CloudStreams
 
 Use this template to provision CloudStreams product on top of Integration Server
 or Microservices Runtime instance (is this supported?)
